@@ -12,4 +12,4 @@
 
 手机扫码查看本页
 
-![Image of Yaktocat](https://qr.api.cli.im/qr?data=https%253A%252F%252Ffor1uck.github.io%252Fshouzhuan%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=260&kid=cliim&key=a1d0bb8c83fd30860ca04275765a8e93)
+![Image](https://raw.githubusercontent.com/for1uck/shouzhuan/master/httpsfor1uck.github.ioshouzhuan.png)
