@@ -12,4 +12,4 @@
 
 手机扫码查看本页
 
-![Image](https://raw.githubusercontent.com/for1uck/shouzhuan/master/httpsfor1uck.github.ioshouzhuan.png)
+![Image](https://raw.githubusercontent.com/for1uck/shouzhuan/master/shouzhuan.png)
